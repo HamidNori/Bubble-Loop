@@ -1,0 +1,14 @@
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.AssemblyInfoInputs.cache
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.AssemblyInfo.cs
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.csproj.CoreCompileInputs.cache
+C:\Github\Bubble-Loop\bin\Debug\net8.0\Bubble-Loop.exe
+C:\Github\Bubble-Loop\bin\Debug\net8.0\Bubble-Loop.deps.json
+C:\Github\Bubble-Loop\bin\Debug\net8.0\Bubble-Loop.runtimeconfig.json
+C:\Github\Bubble-Loop\bin\Debug\net8.0\Bubble-Loop.dll
+C:\Github\Bubble-Loop\bin\Debug\net8.0\Bubble-Loop.pdb
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.dll
+C:\Github\Bubble-Loop\obj\Debug\net8.0\refint\Bubble-Loop.dll
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.pdb
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.genruntimeconfig.cache
+C:\Github\Bubble-Loop\obj\Debug\net8.0\ref\Bubble-Loop.dll
