@@ -40,5 +40,9 @@ class Program
         }
         
     }
+
+    private static void Mergsort(int [] a) {
+
+    }
     
 }
