@@ -12,3 +12,4 @@ C:\Github\Bubble-Loop\obj\Debug\net8.0\refint\Bubble-Loop.dll
 C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.pdb
 C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.genruntimeconfig.cache
 C:\Github\Bubble-Loop\obj\Debug\net8.0\ref\Bubble-Loop.dll
+C:\Github\Bubble-Loop\obj\Debug\net8.0\Bubble-Loop.sourcelink.json
