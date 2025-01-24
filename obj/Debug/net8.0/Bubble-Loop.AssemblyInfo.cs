@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bubble-Loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddafeca6401ce57cbf2ae8977d7dc52ff65234fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74a9992c74492ec57b4b118118053cede3b566a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bubble-Loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bubble-Loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
